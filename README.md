@@ -18,3 +18,18 @@ A weather application built with React that shows real-time weather data for any
 
 1. Clone the repository
 2. Install dependencies
+
+npm install
+
+3. Create a `.env` file in the root of the project
+
+VITE_API_KEY=your_api_key_here
+
+4. Get your free API key at [openweathermap.org](https://openweathermap.org)
+5. Run the app
+
+npm run dev
+
+## Preview
+
+<img width="1739" height="887" alt="image" src="https://github.com/user-attachments/assets/45e690d9-21a0-47b2-b307-a961fed465fd" />
